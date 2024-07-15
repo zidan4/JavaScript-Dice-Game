@@ -132,6 +132,8 @@ const resetGame = () => {
 };
 
 // fix this function
+// If a small straight is rolled, your checkForStraights function should enable the fourth radio button, set the value to 30, and update the displayed text to , score = 30.
+
 const checkForStraights = () => { 
 }
 
