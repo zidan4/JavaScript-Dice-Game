@@ -2,6 +2,7 @@ const listOfAllDice = document.querySelectorAll(".die");
 const scoreInputs = document.querySelectorAll("#score-options input");
 const scoreSpans = document.querySelectorAll("#score-options span");
 const currentRound = document.getElementById("current-round");
+
 const currentRoundRolls = document.getElementById("current-round-rolls");
 const totalScore = document.getElementById("total-score");
 const scoreHistory = document.getElementById("score-history");
